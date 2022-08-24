@@ -22,9 +22,11 @@
     background-color: white;
     font-size: 1.0rem;
     padding: 12px;
+    text-align: right;
 }
 
 .contexto {
+    align-items: center;
     background-color: white;
     padding: 12px;
     border-radius: 10px;
